@@ -6,10 +6,10 @@
 
 
 
-<h3 align="right">🌱 I am currently a third-year software engineering student specializing in Android mobile application development, while actively pursuing skills in Full Stack Web Development through Udemy.</h3> 
+<h3 align="center">🌱 I am currently a third-year software engineering student specializing in Android mobile application development, while actively pursuing skills in Full Stack Web Development through Udemy.</h3> 
 
 
-<hr>
+
  
 📫 How to reach me **noambenbenjamin@gmail.com**
 
