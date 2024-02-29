@@ -15,6 +15,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/noambenbinyamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noambenbinyamin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/noambenbinyamin" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Noam Ben Binyamin" height="35" width="35" /></a>
+<a href="https://www.facebook.com/noam.benbinyamin/?locale=he_IL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Noam Ben Binyamin" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
