@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Noam Ben Binyamin</h1>
+<h1 align="center">Hi 👋, I'm Noam Ben Binyami</h1>
 <h3 align="center">A passionate software developer from Israel</h3>
 
 <h3 align="center">🌱 I am currently a third-year software engineering student specializing in Android mobile application development, while actively pursuing skills in Full Stack Web Development through Udemy.</h3> 
